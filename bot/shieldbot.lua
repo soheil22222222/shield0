@@ -219,6 +219,7 @@ function create_config( )
     "arabic_lock",
     "help_fa",
     "set",
+    "blook",
     "get",
     "google",
     "broadcast",
