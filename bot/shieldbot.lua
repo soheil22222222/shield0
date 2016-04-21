@@ -224,6 +224,9 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "info",
+    "welcome",
+    "antilink",
     "leave_ban",
     "admin"
     },
