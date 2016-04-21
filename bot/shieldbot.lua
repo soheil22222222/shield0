@@ -209,6 +209,7 @@ function create_config( )
   config = {
     enabled_plugins = {
     "onservice",
+    "
     "inrealm",
     "ingroup",
     "inpm",
@@ -219,6 +220,7 @@ function create_config( )
     "arabic_lock",
     "help_fa",
     "set",
+    "lock_english",
     "filterword",
     "blook",
     "get",
