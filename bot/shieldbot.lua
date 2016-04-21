@@ -220,6 +220,7 @@ function create_config( )
     "help_fa",
     "set",
     "get",
+    "google",
     "broadcast",
     "download_media",
     "invite",
