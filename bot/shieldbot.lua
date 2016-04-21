@@ -225,6 +225,7 @@ function create_config( )
     "invite",
     "all",
     "info",
+    "auto_leave",
     "welcome",
     "antilink",
     "leave_ban",
