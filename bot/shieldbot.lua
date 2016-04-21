@@ -245,7 +245,26 @@ function create_config( )
 Fuck baba 😒 seed khkh😂
 ]],
     help_text_realm = [[
+📥 Realm commands 📤
+﹀︿﹀︿﹀︿﹀︿﹀︿﹀︿﹀︿﹀
+💎 ساخت گروه {نام}
+ساخت شدن گروه
 
+💎/addadmin {یوزرنیم}
+اضافه شد ادمین به بات
+
+💎/removeadmin {یوزرنیم}
+حذف ادمین از بات
+
+💎/list groups
+لیست گروه های بات
+
+💎/broadcast{متن}
+فرستان متن به تمام گروه های بات
+
+﹀︿﹀︿﹀︿﹀︿﹀︿﹀︿﹀︿﹀
+Channel: @Shield_Team
+#Shield_bot
 ]],
     help_text = [[
 English Commands:
